@@ -40,5 +40,17 @@ input {
 }
 
 .heada {
+    font-size: 40px;
+}
+
+.heada {
     font-size: 40;
+}
+
+a {
+    font-size: 20px;
+}
+
+a {
+    font-size: 20;
 }
